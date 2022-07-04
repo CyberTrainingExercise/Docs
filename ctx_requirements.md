@@ -1,0 +1,41 @@
+# CTX Requirements
+
+This file will explain how to create your own CTX and what are the requirements to have it approved as an official i5 CTX.
+
+If you are looking for a readme template, see: [a relative link](ctx_readme_template.md)
+
+## README Requirements Explained
+
+1. Objectives
+    - Objectives must include the following:
+        - Estimated skill level for execution on a scale of 1-5:
+            - 1: for people with average computer skills
+            - 2: for people with light programming experience
+            - 3: for people who are comfortable with the command line
+            - 4: for people who are comfortable with programming skills
+            - 5: for people who have moderate pen testing skills
+        - Skills required for Lead:
+            - A list of skills required for the Lead to be comfortable with
+            - Not only for setup, but also for assisting in a technical debrief
+        - Time requirements
+            - The runtime for the CTX's execution
+        - Technical objectives
+            - Top 3 technical skills this CTX is attempting to introduce
+1. Requirements
+    - A list of required objects, hardware, software, or skills.
+1. Expected Design
+    - The thought process in the design of this CTX.
+    - All Leads should be aware this design and are expected to adapt it to fit their needs.
+1. Scenario
+    - The scenario that will be briefed for the CTX.
+1. Docs
+    - A list of docs or references to either help the Trainers and/or the Participants.
+1. Setup
+    - The setup that is required to prepare the CTX.
+1. Onsite Setup
+    - The checklist to verify that CTX is ready to be executed,
+1. Debrief Ideas
+    - A list of helpful questions to ask during the debrief.
+    - Should be both technical and non-technical questions. Remember: we are teaching both leadership and technical competency.
+1. Misc
+    - Other helpful things for this CTX.
