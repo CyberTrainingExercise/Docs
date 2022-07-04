@@ -2,11 +2,13 @@
 
 This file will explain some popular terms used throughout the CTX Project.
 
+Terms are meant to be capitalized when used throughout the project. This is done to help denote the author is specifically referencing one of these positions.
+
 ## List
 
 - CTX - Cyber Training Exercise
 - Trainer - a cadet who instructs, trains, and leads the participants
-- Lead - the primary trainer and onsite mastermind, usually responsible for following:
+- Admin - the primary trainer and onsite mastermind, usually responsible for following:
     - the coodination of the other trainers
     - smoothly guiding the flow of the CTX to acheive the expected objectives
     - technical setup and technical support (ie. they should have all the needed technical answers)
@@ -16,4 +18,4 @@ This file will explain some popular terms used throughout the CTX Project.
 - Participant
     - a cadet who is participating as an end user in the CTX
 - Leader
-    - a cadet who is selected as the team leader for all the participants
+    - a partifipant who is selected as the team leader for all the participants

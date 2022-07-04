@@ -14,7 +14,6 @@ This repo is dedicated to providing a comprehensive set of documentation for the
     1. How do I join the project?
     1. What is i5's role in this project?
 1. Developer Intro
-    1. Github structure
 1. Technical Guides
     1. Development Machine Setup
     1. Virtual Machine Setup with VirtualBox
@@ -36,6 +35,4 @@ To provide i5 cadets a real, tangible, and engaging view of the 17X career field
 
 ## Developer Intro
 
-### Github Structure
-
-
+Please see [terms.md](terms.md) for a breakdown on what specific terms mean.
