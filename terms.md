@@ -4,6 +4,12 @@ This file will explain some popular terms used throughout the CTX Project.
 
 Terms are meant to be capitalized when used throughout the project. This is done to help denote the author is specifically referencing one of these positions.
 
+For example:
+
+> GOOD: "After the engagnement, the Admin should move the focus towards the next objective.
+
+> BAD: "After the engagnement, the admin should move the focus towards the next objective. 
+
 ## List
 
 - CTX - Cyber Training Exercise
