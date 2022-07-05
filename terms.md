@@ -21,6 +21,8 @@ For example:
 - Designer
     - the creator of a specific CTX
     - they are responsible for all code and documentation for their specific CTX
+- Developer
+    - someone who contributes to the CTX project's code or documentation
 - Participant
     - a cadet who is participating as an end user in the CTX
 - Leader

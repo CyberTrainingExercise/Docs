@@ -7,23 +7,16 @@ This repo is dedicated to providing a comprehensive set of documentation for the
 ## Table of Contents
 
 1. Intro to CTXs
-    1. Vision / Mission
-    1. What is a CTX?
-    1. Who is the target audience?
-    1. How do I use them?
-    1. How do I join the project?
-    1. What is i5's role in this project?
 1. Developer Intro
 1. Technical Guides
-    1. Development Machine Setup
-    1. Virtual Machine Setup with VirtualBox
-    1. Provisioning a Linux Mint VM
 
 ## Intro to CTXs
 
 CTX is designed to bring the intersection of Cyber and Space to the i5 audience in a real, tangible, and engaging way.
 
 This project is being spearheaded through i5, however it is not relegated exclusively towards i5 usage. The Space Force, like all military branches, is designed to operate with not only the other branches, but also with foreign partners. With this in mind, the CTX project is geared towards providing a comprehensive vision to i5 cadets and our partners.
+
+To help navigate the growing list of terms in this project, please see [terms.md](terms.md) for a breakdown on what specific terms mean.
 
 ### Vision:
 
@@ -39,6 +32,10 @@ Think of this as the method for acheiving the vision.
 
 > ## *To provide i5 cadets a real, tangible, and engaging view of the 17X career fields and how they operate and interoperate within the Space Force.*
 
+See [intro.md](intro.md) for more details on the CTX project.
+
 ## Developer Intro
 
-Please see [terms.md](terms.md) for a breakdown on what specific terms mean.
+Interested in becoming a developer?
+
+Please see [developer_intro.md](developer_intro.md) for a intro to being a developer.
