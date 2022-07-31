@@ -2,8 +2,6 @@
 
 This file will explain how to create your own CTX and what are the requirements to have it approved as an official i5 CTX.
 
-If you are looking for a readme template, see: [readme_template.md](ctx_readme_template.md)
-
 ## README Requirements Explained
 
 1. Objectives

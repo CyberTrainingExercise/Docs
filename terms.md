@@ -6,9 +6,10 @@ Terms are meant to be capitalized when used throughout the project. This is done
 
 For example:
 
-> GOOD: "After the engagnement, the Admin should move the focus towards the next objective.
+> GOOD: "After the engagement, the Admin should move the focus towards the next objective.
 
-> BAD: "After the engagnement, the admin should move the focus towards the next objective. 
+> BAD: "After the engagement, the admin should move the focus towards the next objective.
+> BAD: "After the engagement, the Administrator should move the focus towards the next objective.
 
 ## List
 
