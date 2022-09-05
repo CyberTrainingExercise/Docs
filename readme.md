@@ -12,7 +12,7 @@ This repo is dedicated to providing a comprehensive set of documentation for the
 
 ## Intro to CTXs
 
-CTX is designed to bring the intersection of Cyber and Space to the i5 audience in a real, tangible, and engaging way. It is primarily designed for cadets interested in the 17S and 17D career fields.
+CTX is designed to bring the intersection of Cyber and Space to the i5 audience in a real, tangible, and engaging way. Additionally, it is primarily designed for cadets interested in the 17S and 17D career fields. As such, it requires technical skills in the cyberspace domain to administer and perform highly in every CTX.
 
 This project is being spearheaded through i5, however it is not relegated exclusively towards i5 usage. The Space Force, like all military branches, is designed to operate not only with the other branches, but also with foreign partners. With this in mind, the CTX project is geared towards providing a comprehensive vision to i5 cadets and our partners.
 
