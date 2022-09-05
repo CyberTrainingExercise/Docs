@@ -24,7 +24,7 @@ For example:
 - Leader
     - a Partifipant who is selected as the team leader for all the Participant(s)
 - Designer
-    - the creator of a specific CTX
+    - the creator and "owner" of a specific CTX
     - they are responsible for all code and documentation for their specific CTX
 - Developer
-    - someone who contributes to the CTX project's code or documentation
+    - someone who contributes to the CTX Project's code or documentation
