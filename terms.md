@@ -14,17 +14,17 @@ For example:
 ## List
 
 - CTX - Cyber Training Exercise
-- Trainer - a cadet who instructs, trains, and leads the participants
+- Trainer - a cadet who instructs, trains, and leads the Participant(s)
 - Admin - the primary trainer and onsite mastermind, usually responsible for following:
-    - the coodination of the other trainers
+    - the coodination of the Trainer(s)
     - smoothly guiding the flow of the CTX to acheive the expected objectives
     - technical setup and technical support (ie. they should have all the needed technical answers)
+- Participant
+    - a cadet who is participating as an end user in the CTX
+- Leader
+    - a Partifipant who is selected as the team leader for all the Participant(s)
 - Designer
     - the creator of a specific CTX
     - they are responsible for all code and documentation for their specific CTX
 - Developer
     - someone who contributes to the CTX project's code or documentation
-- Participant
-    - a cadet who is participating as an end user in the CTX
-- Leader
-    - a partifipant who is selected as the team leader for all the participants
