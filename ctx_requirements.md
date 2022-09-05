@@ -6,19 +6,23 @@ This file will explain how to create your own CTX and what are the requirements 
 
 1. Objectives
     - Objectives must include the following:
-        - Estimated skill level for execution on a scale of 1-5:
-            - 1: for people with basic computer skills
-            - 2: for people with basic programming skills
-            - 3: for people who with basic technical skills
-            - 4: for people who have moderate technical skills
-            - 5: for people who have advanced technical skills
+        - Estimated skill level for execution on a scale of 0-3 for a set of categories:
+            - Skill levels:
+                - 0 = None
+                - 1 = Basic / Freshman level Computer Science knowledge
+                - 2 = Moderate / Sophomore or Junior level Computer Science knowledge
+                - 3 = Advanced / Senior or Grad Student level knowledge
+            - Please rate the following categories
+                - Programming skills required (0-3)
+                - System adminitration skills required (0-3)
+                - Pentesting skills required (0-3)
         - Skills required for Admin:
             - A list of skills required for the Admin to be comfortable with
             - Not only for setup, but also for assisting in a technical debrief
         - Time requirements
             - The runtime for the CTX's execution
         - Technical objectives
-            - Top 3 technical skills this CTX is attempting to introduce
+            - Top 3 technical skills this CTX is attempting to introduce to its participants
 1. Requirements
     - A list of required objects, hardware, software, or skills.
 1. Expected Design
