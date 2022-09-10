@@ -9,6 +9,7 @@ For example:
 > GOOD: "After the engagement, the Admin should move the focus towards the next objective.
 
 > BAD: "After the engagement, the admin should move the focus towards the next objective.
+
 > BAD: "After the engagement, the Administrator should move the focus towards the next objective.
 
 ## List
