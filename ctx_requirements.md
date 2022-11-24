@@ -4,6 +4,8 @@ This file will explain how to create your own CTX and what are the requirements 
 
 ## README Requirements Explained
 
+Each CTX *must* have the following README structure. If you feel that this is not adequate, please open a ticket and propose new options.
+
 1. Objectives
     - Objectives must include the following:
         - Estimated skill level for execution on a scale of 0-3 for a set of categories:
