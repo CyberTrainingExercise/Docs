@@ -9,4 +9,4 @@ This file will give a list of technical guides that are useful for Admins and De
 1. Provisioning a Linux Mint VM
 1. Setting up Docker
 
-[wip](wip.jpg)
+![image](images/wip.jpg)

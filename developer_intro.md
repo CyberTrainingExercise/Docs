@@ -9,4 +9,4 @@ This file will give an introduction to being a Developer for CTX.
     - See [ctx_requirements.md](ctx_requirements.md) for basic CTX requirements.
 1. Adding to another CTX
 
-[wip](wip.jpg)
+![image](images/wip.jpg)
