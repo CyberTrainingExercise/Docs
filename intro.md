@@ -10,6 +10,12 @@ This file will give an introduction to the CTX project.
 1. How do I join the project?
 1. What is i5's role in this project?
 
+## What is a CTX?
+
+A Cyber Training Exercise (CTX) is an ROTC training exercise. It is fundamentally about teaching leadership through the cyberspace operations mechanic. If you're in ROTC, you're probably quite familiar with a Field Training Exercise (FTX). In an FTX, the mechanic is ground combat and all it's associated skills (small unit tactics, TCCC, radio commns, etc.). In a CTX, the mechanics include the cyber domain and all it's associated skills (reverse engineering, network scanning, vulerability assessment, etc.).
+
+> A CTX is defined as: an FTX where cyberspace operations replace some of the ground combat mechanics
+
 ## Mission / Vision
 
 ### Vision:
@@ -27,12 +33,6 @@ Think of this as the method for acheiving the vision. If you take anything home 
 
 > ## *To provide i5 cadets a real, tangible, and engaging view of the 17X career fields and how they operate and interoperate within the Space Force.*
 
-
-## What is a CTX?
-
-A Cyber Training Exercise (CTX) is an ROTC training exercise. It is fundamentally about teaching leadership through the cyberspace operations mechanic. If you're in ROTC, you're probably quite familiar with a Field Training Exercise (FTX). In an FTX, the mechanic is ground combat and all it's associated skills (small unit tactics, TCCC, radio commns, etc.). In a CTX, the mechanics include the cyber domain and all it's associated skills (reverse engineering, network scanning, vulerability assessment, etc.).
-
-> A CTX is defined as: an FTX where cyberspace operations replace some of the ground combat mechanics
 
 ## Who is the target audience?
 
