@@ -1,6 +1,6 @@
-# Developer Intro to CTX
+# [Developer](terms.md "Someone who contributes to the CTX Project's code or documentation.") Intro to CTX
 
-This file will give an introduction to being a Developer for CTX.
+This file will give an introduction to being a [Developer](terms.md "Someone who contributes to the CTX Project's code or documentation.") for CTX.
 
 ## Table of Contents
 

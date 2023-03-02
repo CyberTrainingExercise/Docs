@@ -17,13 +17,13 @@ FAILURE = 1
 SUCCESS = 0
 
 terms = {
-    "CTX ": "<abbr title='Cyber Training Exercise'>CTX</abbr> ",
+    "CTX ": "CTX ",
     "Trainer ": "[Trainer](terms.md 'A cadet who instructs, trains, and leads the Participant(s).') ",
     "Admin ": "[Admin](terms.md 'The primary trainer and onsite mastermind.') ",
     "Participant ": "[Participant](terms.md 'A cadet who is participating as an end user in the CTX.') ",
     "Leader ": "[Leader](terms.md 'A Participant who is selected as the team leader for all the Participant(s).') ",
     "Designer ": "[Designer](terms.md 'The creator and 'owner'' of a specific CTX. They are responsible for all code and documentation for their specific CTX.') ",
-    "Developer ": "[Developer](terms.md 'Someone who contributes to the CTX Project's code or documentation.') "
+    "Developer ": "[Developer](terms.md \"Someone who contributes to the CTX Project's code or documentation.\") "
     #"TODO ": "[TODO](terms.md 'TODO') ",
 }
 
