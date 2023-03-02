@@ -11,9 +11,9 @@ Each CTX *must* have the following README structure. If you feel that this is no
         - Estimated skill level for execution on a scale of 0-3 for a set of categories:
             - Skill levels:
                 - 0 = None
-                - 1 = Basic / Freshman level Computer Science knowledge
-                - 2 = Moderate / Sophomore or Junior level Computer Science knowledge
-                - 3 = Advanced / Senior or Grad Student level knowledge
+                - 1 = Basic / Freshman level computing knowledge
+                - 2 = Moderate / Sophomore or Junior level computing knowledge
+                - 3 = Advanced / Senior or Grad Student level computing knowledge
             - Please rate the following categories
                 - Programming skills required (0-3)
                 - System adminitration skills required (0-3)
