@@ -17,7 +17,6 @@ FAILURE = 1
 SUCCESS = 0
 
 terms = {
-    "CTX ": "CTX ",
     "Trainer ": "[Trainer](terms.md 'A cadet who instructs, trains, and leads the Participant(s).') ",
     "Admin ": "[Admin](terms.md 'The primary trainer and onsite mastermind.') ",
     "Participant ": "[Participant](terms.md 'A cadet who is participating as an end user in the CTX.') ",
