@@ -42,7 +42,7 @@ This project is being spearheaded through i5, however it is not relegated exclus
 
 ## How do I join the project?
 
-Check out our [website](i5space.com/ctx) for more details on how to join.
+Check out our [website](https://i5space.com/ctx) for more details on how to join.
 
 ## What is i5's role in this project?
 
