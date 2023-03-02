@@ -12,7 +12,7 @@ This file will give an introduction to the CTX project.
 
 ## What is a CTX?
 
-A Cyber Training Exercise (CTX) is an ROTC training exercise. It is fundamentally about teaching leadership through the cyberspace operations mechanic. If you're in ROTC, you're probably quite familiar with a Field Training Exercise (FTX). In an FTX, the mechanic is ground combat and all it's associated skills (small unit tactics, TCCC, radio commns, etc.). In a CTX, the mechanics include the cyber domain and all it's associated skills (reverse engineering, network scanning, vulerability assessment, etc.).
+A Cyber Training Exercise (CTX) is an ROTC training exercise. It is fundamentally about teaching leadership through the cyberspace operations mechanic. If you're in ROTC, you're probably quite familiar with a Field Training Exercise (FTX). In an FTX, the mechanic is ground combat and all it's associated skills (small unit tactics, TCCC, radio commns, etc.). In a CTX, the mechanics include the cyber domain and all it's associated skills (reverse engineering, network scanning, vulnerability assessment, etc.).
 
 > A CTX is defined as: an FTX where cyberspace operations replace some of the ground combat mechanics
 
@@ -28,7 +28,7 @@ Think of this as the long term objective, the big picture idea for this project.
 
 ### Mission:
 
-Think of this as the method for acheiving the vision. If you take anything home about the CTX Project, it is meant to be "real" as in true to the real world; "tangible" as in something the cadets can physically engage with (ie. not just mental games); and "engaging" in that it grabs your attention, holds it, and excites you about the 17X career fields.
+Think of this as the method for achieving the vision. If you take anything home about the CTX Project, it is meant to be "real" as in true to the real world; "tangible" as in something the cadets can physically engage with (ie. not just mental games); and "engaging" in that it grabs your attention, holds it, and excites you about the 17X career fields.
 
 
 > ## *To provide i5 cadets a real, tangible, and engaging view of the 17X career fields and how they operate and interoperate within the Space Force.*

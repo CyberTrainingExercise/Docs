@@ -18,7 +18,7 @@ For example:
 - Trainer - A cadet who instructs, trains, and leads the Participant(s).
 - Admin - The primary trainer and onsite mastermind, usually responsible for the following:
     - The coodination of the Trainer(s).
-    - Tmoothly guiding the flow of the CTX to acheive the expected objectives.
+    - Smoothly guiding the flow of the CTX to achieve the expected objectives.
     - Technical setup and technical support (ie. they should have all the needed technical answers).
 - Participant
     - A cadet who is participating as an end user in the CTX.
