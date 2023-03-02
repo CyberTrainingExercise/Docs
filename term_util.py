@@ -43,7 +43,7 @@ def update_terms(filename: str) -> int:
                 line = line.replace(term, terms[term])
                 changes_count += 1
                 print(term, "-", line)
-            if re.findall(r".*\[" + term + "\]\(terms.md '" + terms[term] + "'\)")
+            #if re.findall(r".*\[" + term + "\]\(terms.md '" + terms[term] + "'\)")
         file_w.write(line)
     file.close()
     file_w.close()
@@ -72,7 +72,7 @@ def main():
     for filename in sys.argv[1:]:
         if check_file_exists(filename) == 1:
             return print_usage()
-        update_line_count += add_terms(filename)
+        update_line_count += update_terms(filename)
     total_seconds = str(round(time.time() - start_seconds, 2))
     print("Updated", update_line_count, "lines in", total_seconds, "seconds")
 

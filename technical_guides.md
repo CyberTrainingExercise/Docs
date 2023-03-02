@@ -10,3 +10,5 @@ This file will give a list of technical guides that are useful for Admins and De
 1. Setting up Docker
 
 ![image](images/wip_small.jpg)
+
+The [Admin](terms.md 'The primary trainer and onsite mastermind.') is responsible for powering through and creating text

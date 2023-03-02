@@ -1,10 +1,10 @@
-# CTX Requirements
+# [CTX](terms.md 'Cyber Training Exercise.') Requirements
 
-This file will explain how to create your own CTX and what are the requirements to have it approved as an official i5 CTX.
+This file will explain how to create your own [CTX](terms.md 'Cyber Training Exercise.') and what are the requirements to have it approved as an official i5 CTX.
 
 ## README Requirements Explained
 
-Each CTX *must* have the following README structure. If you feel that this is not adequate, please open a ticket and propose new options.
+Each [CTX](terms.md 'Cyber Training Exercise.') *must* have the following README structure. If you feel that this is not adequate, please open a ticket and propose new options.
 
 1. Objectives
     - Objectives must include the following:
@@ -19,12 +19,12 @@ Each CTX *must* have the following README structure. If you feel that this is no
                 - System adminitration skills required (0-3)
                 - Pentesting skills required (0-3)
         - Skills required for Admin:
-            - A list of skills required for the Admin to be comfortable with
+            - A list of skills required for the [Admin](terms.md 'The primary trainer and onsite mastermind.') to be comfortable with
             - Not only for setup, but also for assisting in a technical debrief
         - Time requirements
             - The runtime for the CTX's execution
         - Technical objectives
-            - Top 3 technical skills this CTX is attempting to introduce to its participants
+            - Top 3 technical skills this [CTX](terms.md 'Cyber Training Exercise.') is attempting to introduce to its participants
 1. Requirements
     - A list of required objects, hardware, software, or skills.
 1. Expected Design
@@ -40,13 +40,13 @@ Each CTX *must* have the following README structure. If you feel that this is no
 1. Setup
     - The setup that is required to prepare the CTX.
 1. Onsite Setup
-    - The checklist to verify that CTX is ready to be executed.
+    - The checklist to verify that [CTX](terms.md 'Cyber Training Exercise.') is ready to be executed.
 1. Solution
     - A possible solution to solve the problem.
 1. Debrief Ideas
     - A list of helpful questions to ask during the debrief.
         - These questions should be specifically targeted to this scenario. Don't put general questions here.
-            - For example, in a CTX where the team is being pushed to split up due to the mission objectives, put something like "how did you manage splitting up or a lack of splitting up?". Don't put something like "what went well" in this section.
+            - For example, in a [CTX](terms.md 'Cyber Training Exercise.') where the team is being pushed to split up due to the mission objectives, put something like "how did you manage splitting up or a lack of splitting up?". Don't put something like "what went well" in this section.
         - Should be both technical and non-technical questions. Remember: we are teaching both leadership and technical competency.
 1. Misc
     - Other helpful things for this CTX.
