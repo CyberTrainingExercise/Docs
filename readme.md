@@ -50,7 +50,9 @@ The CTX Project is focused on teaching leadership through cyber warfare. To do t
 
 Cyber Resources:
 [The National Security Agency (NSA)'s Clark Center](https://clark.center/home).
+
 ...
 
 Leadership Resources:
+
 ...
