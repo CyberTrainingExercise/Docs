@@ -8,7 +8,7 @@ This repo is dedicated to providing a comprehensive set of documentation for the
 
 1. Intro to CTXs
 1. [Developer](terms.md "Someone who contributes to the CTX Project's code or documentation.") Intro
-1. Technical Guides
+1. Learning Resources
 
 ## Intro to CTXs
 
@@ -43,3 +43,14 @@ See [intro.md](intro.md) for more details on the CTX Project.
 Interested in becoming a Developer?
 
 Please see [developer_intro.md](developer_intro.md) for a intro to being a Developer/Designer.
+
+## Learning Resources
+
+The CTX Project is focused on teaching leadership through cyber warfare. To do this effectively, suplemental resources may be needed for learning cyber warfare and for learning leadership. Below are a list of recommended resources.
+
+Cyber Resources:
+[The National Security Agency (NSA)'s Clark Center](https://clark.center/home).
+...
+
+Leadership Resources:
+...
