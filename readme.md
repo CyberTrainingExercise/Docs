@@ -38,7 +38,7 @@ Think of this as the method for achieving the vision. If you take anything home 
 
 See [intro.md](intro.md) for more details on the CTX Project.
 
-## [Developer](terms.md "Someone who contributes to the CTX Project's code or documentation.") Intro
+## Developer Intro
 
 Interested in becoming a Developer?
 
