@@ -7,7 +7,7 @@ This repo is dedicated to providing a comprehensive set of documentation for the
 ## Table of Contents
 
 1. Intro to CTXs
-1. [Developer](terms.md "Someone who contributes to the CTX Project's code or documentation.") Intro
+1. Developer Intro
 1. Learning Resources
 
 ## Intro to CTXs
